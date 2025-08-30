@@ -24,11 +24,11 @@ with dynamic visuals, providing real-time insights for better decision-making.
 2. Data is transformed and loaded into Power BI.
 3. Dashboard visualizes the information with interactive charts and KPIs.
    
-**Screenshot**
+**Screenshot :**
+```
+Screenshot 2025-08-30 224502.png 
 
-
-(Replace Screenshot.png with your actual uploaded screenshot file name in the repo)
-
+```
 **Project Files :**
 
 1. weather dashboard.pbix → Power BI file containing the dashboard
